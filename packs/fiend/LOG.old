@@ -1,44 +1,8 @@
-2024/10/02-13:29:15.466 394 Recovering log #65
-2024/10/02-13:29:15.524 394 Delete type=0 #65
-2024/10/02-13:29:15.524 394 Delete type=3 #64
-2024/10/02-13:45:42.294 a18c Level-0 table #69: started
-2024/10/02-13:45:42.410 a18c Level-0 table #69: 1934773 bytes OK
-2024/10/02-13:45:42.415 a18c Delete type=0 #67
-2024/10/02-13:46:12.717 a18c Level-0 table #71: started
-2024/10/02-13:46:12.811 a18c Level-0 table #71: 1950880 bytes OK
-2024/10/02-13:46:12.816 a18c Delete type=0 #68
-2024/10/02-13:46:46.815 a18c Level-0 table #73: started
-2024/10/02-13:46:46.917 a18c Level-0 table #73: 1984336 bytes OK
-2024/10/02-13:46:46.923 a18c Delete type=0 #70
-2024/10/02-13:47:12.109 a18c Level-0 table #75: started
-2024/10/02-13:47:12.237 a18c Level-0 table #75: 2022538 bytes OK
-2024/10/02-13:47:12.242 a18c Delete type=0 #72
-2024/10/02-14:07:27.837 a18c Level-0 table #77: started
-2024/10/02-14:07:27.856 a18c Level-0 table #77: 126409 bytes OK
-2024/10/02-14:07:27.859 a18c Delete type=0 #74
-2024/10/02-14:07:27.951 a18c Manual compaction at level-0 from '!actors!0Eu2KU11kKcqmHb9' @ 72057594037927935 : 1 .. '!actors.items.effects!zw5vtJhoDw0Hkis8.td39GbvJ36E5etwP.bckYDthT7sAOQBNO' @ 0 : 0; will stop at '!actors.items.effects!zLjJ2sKNV9hc6DKD.oqnPXFKpxf6fGTMM.potjmpJPeUA1U4oe' @ 6234 : 1
-2024/10/02-14:07:27.951 a18c Compacting 3@0 + 1@1 files
-2024/10/02-14:07:28.024 a18c Generated table #78@0: 738 keys, 2116238 bytes
-2024/10/02-14:07:28.149 a18c Generated table #79@0: 2126 keys, 2130466 bytes
-2024/10/02-14:07:28.251 a18c Generated table #80@0: 1968 keys, 1837633 bytes
-2024/10/02-14:07:28.251 a18c Compacted 3@0 + 1@1 files => 6084337 bytes
-2024/10/02-14:07:28.253 a18c compacted to: files[ 0 3 1 0 0 0 0 ]
-2024/10/02-14:07:28.253 a18c Delete type=2 #71
-2024/10/02-14:07:28.254 a18c Delete type=2 #73
-2024/10/02-14:07:28.254 a18c Delete type=2 #75
-2024/10/02-14:07:28.254 a18c Delete type=2 #77
-2024/10/02-14:07:28.355 a18c Manual compaction at level-0 from '!actors.items.effects!zLjJ2sKNV9hc6DKD.oqnPXFKpxf6fGTMM.potjmpJPeUA1U4oe' @ 6234 : 1 .. '!actors.items.effects!zw5vtJhoDw0Hkis8.td39GbvJ36E5etwP.bckYDthT7sAOQBNO' @ 0 : 0; will stop at (end)
-2024/10/02-14:07:29.115 a18c Expanding@1 1+1 (2116238+1934773 bytes) to 3+1 (6084337+1934773 bytes)
-2024/10/02-14:07:29.115 a18c Manual compaction at level-1 from '!actors!0Eu2KU11kKcqmHb9' @ 72057594037927935 : 1 .. '!actors.items.effects!zw5vtJhoDw0Hkis8.td39GbvJ36E5etwP.bckYDthT7sAOQBNO' @ 0 : 0; will stop at '!actors.items.effects!zw5vtJhoDw0Hkis8.td39GbvJ36E5etwP.bckYDthT7sAOQBNO' @ 2837 : 1
-2024/10/02-14:07:29.115 a18c Compacting 3@1 + 1@2 files
-2024/10/02-14:07:29.192 a18c Generated table #81@1: 340 keys, 2112128 bytes
-2024/10/02-14:07:29.224 a18c Generated table #82@1: 2036 keys, 2127363 bytes
-2024/10/02-14:07:29.331 a18c Generated table #83@1: 2126 keys, 2130503 bytes
-2024/10/02-14:07:29.420 a18c Generated table #84@1: 1811 keys, 1646232 bytes
-2024/10/02-14:07:29.421 a18c Compacted 3@1 + 1@2 files => 8016226 bytes
-2024/10/02-14:07:29.424 a18c compacted to: files[ 0 0 4 0 0 0 0 ]
-2024/10/02-14:07:29.424 a18c Delete type=2 #69
-2024/10/02-14:07:29.424 a18c Delete type=2 #78
-2024/10/02-14:07:29.425 a18c Delete type=2 #79
-2024/10/02-14:07:29.425 a18c Delete type=2 #80
-2024/10/02-14:07:29.526 a18c Manual compaction at level-1 from '!actors.items.effects!zw5vtJhoDw0Hkis8.td39GbvJ36E5etwP.bckYDthT7sAOQBNO' @ 2837 : 1 .. '!actors.items.effects!zw5vtJhoDw0Hkis8.td39GbvJ36E5etwP.bckYDthT7sAOQBNO' @ 0 : 0; will stop at (end)
+2024/10/02-14:18:48.814 bc4 Recovering log #91
+2024/10/02-14:18:48.823 bc4 Delete type=0 #91
+2024/10/02-14:18:48.824 bc4 Delete type=3 #89
+2024/10/02-14:24:20.828 4ca0 Level-0 table #96: started
+2024/10/02-14:24:20.828 4ca0 Level-0 table #96: 0 bytes OK
+2024/10/02-14:24:20.830 4ca0 Delete type=0 #94
+2024/10/02-14:24:20.835 4ca0 Manual compaction at level-0 from '!actors!0Eu2KU11kKcqmHb9' @ 72057594037927935 : 1 .. '!actors.items.effects!zw5vtJhoDw0Hkis8.td39GbvJ36E5etwP.bckYDthT7sAOQBNO' @ 0 : 0; will stop at (end)
+2024/10/02-14:24:20.835 4ca0 Manual compaction at level-1 from '!actors!0Eu2KU11kKcqmHb9' @ 72057594037927935 : 1 .. '!actors.items.effects!zw5vtJhoDw0Hkis8.td39GbvJ36E5etwP.bckYDthT7sAOQBNO' @ 0 : 0; will stop at (end)

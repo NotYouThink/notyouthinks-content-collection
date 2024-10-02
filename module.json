@@ -329,7 +329,7 @@
     },
     {
       "name": "items",
-      "label": "Items",
+      "label": "Official Items",
       "path": "packs/items",
       "type": "Item",
       "system": "dnd5e",
@@ -337,6 +337,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "items-from-the-griffons-saddlebag",
+      "label": "Items from The Griffon's Saddlebag",
+      "path": "packs/items-from-the-griffons-saddlebag",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "url": "https://github.com/NotYouThink/notyouthinks-content-collection"
