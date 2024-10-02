@@ -1,7 +1,19 @@
-2024/10/02-11:52:22.746 790c Recovering log #54
-2024/10/02-11:52:22.758 790c Delete type=0 #54
-2024/10/02-11:52:22.758 790c Delete type=3 #52
-2024/10/02-11:54:04.144 4d70 Level-0 table #59: started
-2024/10/02-11:54:04.144 4d70 Level-0 table #59: 0 bytes OK
-2024/10/02-11:54:04.148 4d70 Delete type=0 #57
-2024/10/02-11:54:04.163 4d70 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/10/02-13:29:15.113 b6cc Recovering log #65
+2024/10/02-13:29:15.157 b6cc Delete type=0 #65
+2024/10/02-13:29:15.157 b6cc Delete type=3 #64
+2024/10/02-13:32:22.007 a18c Level-0 table #69: started
+2024/10/02-13:32:22.032 a18c Level-0 table #69: 1840404 bytes OK
+2024/10/02-13:32:22.037 a18c Delete type=0 #67
+2024/10/02-14:07:26.391 a18c Level-0 table #71: started
+2024/10/02-14:07:26.424 a18c Level-0 table #71: 720102 bytes OK
+2024/10/02-14:07:26.428 a18c Delete type=0 #68
+2024/10/02-14:07:26.428 a18c Manual compaction at level-0 from '!actors!03hbFK9lx2Z1XdWG' @ 72057594037927935 : 1 .. '!actors.items.effects!IUGKnyJP1twClvH0.KclQi05PlYXwSzuU.fBMLyF7ftAaWmv1s' @ 0 : 0; will stop at (end)
+2024/10/02-14:07:26.528 a18c Manual compaction at level-1 from '!actors!03hbFK9lx2Z1XdWG' @ 72057594037927935 : 1 .. '!actors.items.effects!IUGKnyJP1twClvH0.KclQi05PlYXwSzuU.fBMLyF7ftAaWmv1s' @ 0 : 0; will stop at '!actors.items!zUUr190SvgKJfMBL.gCbc1fgD9XaOBME5' @ 1530 : 1
+2024/10/02-14:07:26.528 a18c Compacting 1@1 + 1@2 files
+2024/10/02-14:07:26.557 a18c Generated table #72@1: 1333 keys, 2124754 bytes
+2024/10/02-14:07:26.582 a18c Generated table #73@1: 577 keys, 431738 bytes
+2024/10/02-14:07:26.582 a18c Compacted 1@1 + 1@2 files => 2556492 bytes
+2024/10/02-14:07:26.584 a18c compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/02-14:07:26.584 a18c Delete type=2 #69
+2024/10/02-14:07:26.584 a18c Delete type=2 #71
+2024/10/02-14:07:26.668 a18c Manual compaction at level-1 from '!actors.items!zUUr190SvgKJfMBL.gCbc1fgD9XaOBME5' @ 1530 : 1 .. '!actors.items.effects!IUGKnyJP1twClvH0.KclQi05PlYXwSzuU.fBMLyF7ftAaWmv1s' @ 0 : 0; will stop at (end)

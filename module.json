@@ -174,17 +174,6 @@
       }
     },
     {
-      "name": "summons",
-      "label": "Summons",
-      "path": "packs/summons",
-      "type": "Actor",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "undead",
       "label": "Undead",
       "path": "packs/undead",
