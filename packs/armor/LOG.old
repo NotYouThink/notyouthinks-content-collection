@@ -1,0 +1,7 @@
+2024/10/02-11:29:20.041 790c Recovering log #4
+2024/10/02-11:29:20.053 790c Delete type=0 #4
+2024/10/02-11:29:20.053 790c Delete type=3 #2
+2024/10/02-11:51:22.944 4d70 Level-0 table #9: started
+2024/10/02-11:51:22.987 4d70 Level-0 table #9: 915243 bytes OK
+2024/10/02-11:51:23.015 4d70 Delete type=0 #7
+2024/10/02-11:51:23.055 4d70 Manual compaction at level-0 from '!items!0OyDvDBlO4N82ICD' @ 72057594037927935 : 1 .. '!items.effects!zs16Z6qddOITPrtX.YGYRsRFzxi0TaAKY' @ 0 : 0; will stop at (end)
