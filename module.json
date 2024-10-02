@@ -1,7 +1,7 @@
 {
   "id": "notyouthinks-content-collection",
   "title": "NotYouThink's Content Collection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -26,9 +26,6 @@
   "authors": [
     {
       "name": "NotYouThink",
-      "email": "danielschneele@gmail.com",
-      "url": "http://www.trollskull-inn.shop/",
-      "discord": "notyouthink",
       "flags": {}
     }
   ],
@@ -352,5 +349,6 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "url": "https://github.com/NotYouThink/notyouthinks-content-collection"
 }
