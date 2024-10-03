@@ -12,6 +12,16 @@
         "id": "item-piles",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "itemacro",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {}
       }
     ],
     "systems": [
@@ -343,11 +353,11 @@
       "label": "Items from The Griffon's Saddlebag",
       "path": "packs/items-from-the-griffons-saddlebag",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "url": "https://github.com/NotYouThink/notyouthinks-content-collection"
